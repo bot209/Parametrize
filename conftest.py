@@ -1,6 +1,4 @@
 import pytest
-from webbrowser import Chrome
-from requests import options
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
